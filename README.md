@@ -1,4 +1,4 @@
-grey-oscon2012-visit-presentation
+Grey OSCON 2012 Visit Presentation
 =================================
 
-grey-oscon2012-visit-presentation
+Small presentation of what was of impact in each talk
